@@ -1,8 +1,6 @@
 # Python_Climate_Change-Analysis
 This analysis uses a dataset from BP's annual energy review to show key changes and trends in energy consumption levels for about 99 entities globally. 
 
-Task 6.1 | Sourcing Open Data
-
 Data Source:
 Percentage of Energy Consumption by Country
 The dataset “percentage of energy consumption by country” is an external data source. I found this dataset on Kaggle. It is part of a larger group of datasets collected and scraped from the collected and scraped from the Organization of Economic Co-Operation and Development (OECD), BP Statistical Review of World Energy, International Renewable Energy Agency (IRENA), Berkeley Earth, ClimateWatch, Institute for Health Metrics and Evaluation (IMHE), Our World In Data, Corporate Knights, and the World Resource Institute. I rate this dataset as trustworthy due to the reputable nature of these organizations. 
