@@ -40,7 +40,7 @@ Unit meanings in columns:
 *TWh=terawatt-hour
 These are units of energy consumption. 
 
-Data wrangling and consistency checks;
+Data wrangling and consistency checks:
 I looked at the mean, std, min, quartiles, and max for each field and none are suspicious
 I dropped the column “Code’” as there was not a code for each entity/country and it does not add to this analysis
 I checked the data types of each column and changed entity (country name) to string type
